@@ -7,6 +7,6 @@ After installation, set the JAVA_HOME environment variable.
 Install Node.js from the Node.js website.
 
 1. install android studio
-	go to SDK manager
-2.after install go to more Action > virtual device manager
-3.Create a new virtual device
+	go to SDK manager </br>
+2.after install go to more Action > virtual device manager</br>
+3.Create a new virtual device</br>
